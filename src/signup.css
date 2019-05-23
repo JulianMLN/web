@@ -1,0 +1,27 @@
+#signup{
+    margin-top : 50px;
+    height: 400px;
+    width: 600px;
+    border-radius: 5px;
+    background-color: rgba(3, 104, 192, 0.767);
+}
+h1{
+    margin : 15px;
+    text-align: center;
+}
+input{
+    border-radius: 3px;
+    border:none;
+    margin-top:15px;
+    height: 30px;
+    width: 300px;
+    padding: 5px 15px;
+}
+
+label{
+    width:380px;
+    text-align:right;
+    color: white;
+    font-size: 20px;
+    padding-right: 20px;
+}

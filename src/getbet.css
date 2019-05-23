@@ -1,0 +1,16 @@
+table {
+    width: 100%;
+  }
+  
+  td {
+    height: 50px;
+    width: 120px;
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.gettbet{
+    width: 800px;
+    background-color:  rgba(3, 104, 192, 0.767);
+}
